@@ -22,31 +22,41 @@ Category, person, organisation, collection, style, gallery, place, object types,
 ## Overall User Experience (UX)
 
 - Strength of Visual Content
+
 Artwork is presented as the primary focus of the collection, with images as the dominant visual element. All images are large and high quality. Text is used purposefully but sparingly to enhance the visual content.
 
 - Visual Aesthetics
+
 Color, graphics, typography, and other non-interactive interface elements are harmonious and used consistently. Elicits affective reactions that are universally positive.
 
 - System Reliability and Performance
+
 The interface is fully functional and completely free of technical errors. The pages consistently load quickly, and all aspects of the interface respond immediately to user actions.
 
 - Usefulness of Metadata
+
 Metadata structure is purposefully designed to enhance users’ ability to find and learn about artworks. Includes novel metadata facets that offer innovative ways to browse, search, and filter artworks.
 
 - Interface Usability
+
 Interface is intuitive and accessible. Interface elements are easy to locate and easy to use, creating a seamless and immersive interaction between the user and the collection.
 
 - Support for Casual and Expert Users
+
 Primarily provides basic content and functionality for casual users. Advanced features are visible but unobtrusive, which effectively supports expert users and encourages learnability for casual users. Allows for a seamless transition between casual browsing and advanced research.
 
 - Uniqueness of Virtual Experience
+
 Virtual museum experience is entirely different from the physical museum experience. Finding and viewing virtual artworks allows for new and insightful perspectives that would not be possible in the physical museum.
 
 - Openness: 
+
 Users are given complete control over the content, with clearly marked options to download, print, and/or save high-quality images.
 
 - Integration of Social Features
+
 Encourages varying levels of participation within a virtual community, of which the museum is an active participant. Social tools are prominently integrated into the collection. Provides multiple options for sharing and communicating with others.
 
 - Personalization of Experiences
+
 Allows users to craft dynamic personal experiences with few, if any, limitations. Integrates robust customization, gaming, and/or other innovative personalization features. Inspires users to be active co-creators of their virtual museum experience.
