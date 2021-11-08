@@ -5,21 +5,21 @@ title: V&A Museum
 
 > Viste Here
 
-##Background
+## Background
 
 The V&A was founded in 1852 and named after Queen Victoria and Prince Albert. It is the world’s leading museum of art and design, housing a permanent collection of over 2.3 million objects that span over 5,000 years of human creativity. The Museum holds many of the UK's national collections and houses some of the greatest resources for the study of architecture, furniture, fashion, textiles, photography, sculpture, painting, jewellery, glass, ceramics, book arts, Asian art and design, theatre and performance.
 
-##Layout
+## Layout
 
 An artistic picture of a recent display as background are showed at the top as one opens the website.  A few text information is also given to present the name and time of the display. In addition, viewer can click the the button with hyperlink to enter the page that provides more information (like whether it can be visited for free and where the displayed location is). Provides multiple options for sharing and communicating with others.
 
 More importantly, there are two categories: display highlights and features. In the section of display highlights, there are several images of the display, and text information below to tell what the image is. Of course, each image is hyperlinked and directs viewers to an individual photo page, which includes metadata about the photographer, the place that the object was produced, and more details (such as its category, the type, the materials and techniques; the brief description, dimensions, subjects depicted and so on). 
 
-##Filter functionality
+## Filter functionality
 
 Category, person, organisation, collection, style, gallery, place, object types, technique, material, dates, and below every filter, there are more categories which helps viewer narrow the range, and quickly find the object.
 
-##Overall User Experience (UX)
+## Overall User Experience (UX)
 
 - Strength of Visual Content: Artwork is presented as the primary focus of the collection, with images as the dominant visual element. All images are large and high quality. Text is used purposefully but sparingly to enhance the visual content.
 
